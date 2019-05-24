@@ -13,5 +13,5 @@ const decode = (e, s) => {
 
 const url = decode(encoded, secret);
 
-// Entrá a la web de Aerolab y saluda al querido Doge.
+// Entrá a la web de Aerolab (es aerolab.co, aerolab.com nos ganó de mano) y saludá al querido Doge.
 // Él sabe nuestro secret :wink:
